@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: https://mazhuang.org
+baseurl: https://morgao.github.io/Morgao/
+url: https://morgao.github.io/Morgao/
 date_format: "ordinal"
 title: Morgao
 subtitle: "Backend Developer序员"
