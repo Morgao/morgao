@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: https://mazhuang.org
+baseurl: https://morgao.github.io/Morgao/
+url: https://morgao.github.io/Morgao/
 date_format: "ordinal"
 title: Morgao
 subtitle: "Backend Developer序员"
@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2010
 # 源码仓库，请替换成自己的
-repository: Morgao.github.io
+repository: https://morgao.github.io/Morgao/
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
