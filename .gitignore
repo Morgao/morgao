@@ -1,11 +1,7 @@
-_site/
-*.sw[po]
-*.~vsd
-\#*\#
-*~
-.DS_Store
-Gemfile.lock
-.vscode/
+_site
+.sass-cache
 .jekyll-metadata
-.\$*.png.bkp
-.\$*.png.dtmp
+.jekyll-cache
+.vscode
+.idea
+.DS_Store
